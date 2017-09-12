@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/NextDorm/NextDorm/issues"
   },
-  "homepage": "https://github.com/NextDorm/NextDorm#readme"
+  "homepage": "https://github.com/NextDorm/NextDorm#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "ionic": "^3.9.2",
+    "jquery": "^3.2.1"
+  }
 }
